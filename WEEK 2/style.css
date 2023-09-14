@@ -1,0 +1,67 @@
+.container{
+    background-color: yellow;
+    border-style: solid;
+    width: 550px;
+    height: 600px;
+    margin-left: 200px;
+    position: relative;
+}
+
+.header{
+    background-color: green;
+    border-style: solid;
+    width: 535px;
+    height: 40px;
+    text-align: center;
+    margin-left: 5px;
+    margin-top: 5px;
+    position: absolute;
+    font-size: 20px;
+    line-height: 5px;
+}
+.menu1{
+    background-color: lightblue;
+    border-style: solid;
+    width: 535px;
+    height: 40px;
+    text-align: center;
+    margin-left: 5px;
+    margin-top: 55px;
+    position: absolute;
+    font-size: 20px;
+    line-height: 5px;
+}
+.footer{
+    background-color: orange;
+    border-style: solid;
+    width: 535px;
+    height: 40px;
+    text-align: center;
+    margin-left: 5px;
+    margin-top: 550px;
+    position: absolute;
+    font-size: 20px;
+    line-height: 2px;;
+}
+.menu2{
+    background-color: blue;
+    border-style: solid;
+    width: 180px;
+    height: 435px;
+    text-align: center;
+    margin-left: 5px;
+    margin-top: 105px;
+    position: absolute;
+    font-size: 20px;
+}
+.content{
+    background-color: magenta;
+    border-style: solid;
+    width: 344px;
+    height: 435px;
+    text-align: center;
+    margin-left: 195px;
+    margin-top: 105px;
+    position: absolute;
+    font-size: 20px;
+}
